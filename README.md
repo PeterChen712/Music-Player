@@ -8,7 +8,7 @@ To use this music player, you need to have Java installed on your system. You ca
 
 ### Usage
 Clone this repository to your local machine using the following command:
-'git clone '
+`git clone https://github.com/PeterChen712/Music-Player`
 
 
 ## Example Music
